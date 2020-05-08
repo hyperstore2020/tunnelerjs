@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/hyperstore2020/tunnelerjs)](https://repl.it/github/hyperstore2020/tunnelerjs)
+
 NOTE: at this point of development this bot is suitable only for experienced users. Some of the documentation below may be deprecated or otherwise lacking.
 
 # tunnelerjs
